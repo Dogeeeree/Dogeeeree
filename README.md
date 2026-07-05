@@ -1,5 +1,6 @@
-<h1 align="center">Dogeeeree</h1>
-
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Dogeeeree" alt="Typing SVG" />
+</p>
 <p align="center">
   I build small systems that make messy work easier.
 </p>
