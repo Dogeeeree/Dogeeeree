@@ -1,6 +1,6 @@
 # Hi, I'm a hands-on builder
 
-I build practical tools around AI workflows, Minecraft automation, Android/Flutter apps, and server infrastructure.
+I build practical tools around AI workflows, and server infrastructure.
 
 I like turning rough ideas into working systems: scripts, mod packs, setup guides, small utilities, and repeatable workflows.
 
