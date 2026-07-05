@@ -31,10 +31,6 @@
 
 ## Featured Work
 
-- `Voucher-Management-API` — Java backend API for voucher management workflows.
-- `SpringBoot_DDD_CleanArchitecture` — Spring Boot project structure using DDD and Clean Architecture ideas.
-- `crm-invoice-module` — CRM invoice module experiment.
-- `Dogeeeree` — GitHub profile configuration and personal README.
 
 ## Build Philosophy
 
