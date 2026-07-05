@@ -32,11 +32,13 @@
   <img src="https://img.shields.io/badge/Game_Systems-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
-## Operating Loop
+## Contact
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Break-Problem-ef4444?style=flat-square" />
-  <img src="https://img.shields.io/badge/Find-Pattern-f59e0b?style=flat-square" />
-  <img src="https://img.shields.io/badge/Automate-Boring_Part-22c55e?style=flat-square" />
-  <img src="https://img.shields.io/badge/Write-Steps_Down-3b82f6?style=flat-square" />
+  <a href="https://github.com/Dogeeeree" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:minhkhang.developer@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
