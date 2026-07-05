@@ -1,42 +1,49 @@
-<h1 align="center">Hi, I'm Dogeeeree</h1>
+<h1 align="center">Dogeeeree</h1>
 
 <p align="center">
-  Hands-on builder focused on AI workflows, Minecraft automation, backend systems, and practical server tooling.
+  I build small systems that make messy work easier.
 </p>
 
 <p align="center">
-  I turn rough ideas into working systems: scripts, mod packs, setup guides, small utilities, and repeatable workflows.
+  AI workflows · Minecraft automation · VPS tooling · backend experiments
 </p>
-
-<h2 align="center">Focus</h2>
 
 <p align="center">
-  AI-assisted development · Research agents · Fabric mods · Baritone automation · Game systems · Linux VPS setup
+  <img src="https://skillicons.dev/icons?i=python,java,powershell,bash,ubuntu,windows,docker,git,github,vscode,linux" />
 </p>
 
-<h2 align="center">Tech I Use</h2>
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,bash,ubuntu,windows,docker,git,github,vscode,linux" />
-</p>
+## What I Usually Build
 
-<h2 align="center">Tools & Interests</h2>
+- Tools and scripts that remove repetitive setup work.
+- Minecraft client/server setups for low-resource VPS machines.
+- Fabric mod packs, Baritone workflows, and automation experiments.
+- Backend APIs and clean project structures.
+- Notes, checklists, and guides that make technical things less painful.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-111827?style=flat&logo=gear&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Server-FCC624?style=flat&logo=linux&logoColor=black" />
-</p>
-
-## Featured Work
-
-
-## Build Philosophy
+## Current Playground
 
 ```text
-Build it.
-Test it.
-Simplify it.
-Explain it.
-Repeat.
+Minecraft VPS automation
+AI-assisted research and coding
+Linux desktop over remote machines
+Backend API structure
+Game economy and combat calculations
+```
+
+## Public Work
+
+- `Voucher-Management-API` — backend API experiment.
+- `SpringBoot_DDD_CleanArchitecture` — Spring Boot structure with DDD/Clean Architecture ideas.
+- `crm-invoice-module` — CRM invoice module.
+- `Dogeeeree` — profile and GitHub config.
+
+## Operating Loop
+
+```text
+Break the problem.
+Find the pattern.
+Automate the boring part.
+Write the steps down.
 ```
