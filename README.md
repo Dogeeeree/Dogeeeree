@@ -32,13 +32,6 @@ Backend API structure
 Game economy and combat calculations
 ```
 
-## Public Work
-
-- `Voucher-Management-API` — backend API experiment.
-- `SpringBoot_DDD_CleanArchitecture` — Spring Boot structure with DDD/Clean Architecture ideas.
-- `crm-invoice-module` — CRM invoice module.
-- `Dogeeeree` — profile and GitHub config.
-
 ## Operating Loop
 
 ```text
