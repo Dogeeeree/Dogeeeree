@@ -7,8 +7,7 @@ I like turning rough ideas into working systems: scripts, mod packs, setup guide
 ## Focus
 
 - AI-assisted development and research agents
-- Minecraft VPS tuning, Fabric mods, Meteor, Baritone, and automation
-- Android and Flutter app development
+- Fabric mods and automation
 - Game systems, economy math, and practical automation
 - Clear guides for people who are still learning
 
