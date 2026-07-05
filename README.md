@@ -25,19 +25,18 @@
 
 ## Current Playground
 
-```text
-Minecraft VPS automation
-AI-assisted research and coding
-Linux desktop over remote machines
-Backend API structure
-Game economy and combat calculations
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Workflows-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Remote-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Backend_APIs-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game_Systems-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</p>
 
 ## Operating Loop
 
-```text
-Break the problem.
-Find the pattern.
-Automate the boring part.
-Write the steps down.
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Break-Problem-ef4444?style=flat-square" />
+  <img src="https://img.shields.io/badge/Find-Pattern-f59e0b?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automate-Boring_Part-22c55e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Write-Steps_Down-3b82f6?style=flat-square" />
+</p>
