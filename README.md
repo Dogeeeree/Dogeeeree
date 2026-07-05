@@ -21,7 +21,6 @@ I like turning rough ideas into working systems: scripts, mod packs, setup guide
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat&logo=minecraft&logoColor=white" />
   <img src="https://img.shields.io/badge/Automation-111827?style=flat&logo=gear&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux_Server-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
